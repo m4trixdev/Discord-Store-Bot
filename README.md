@@ -1,4 +1,4 @@
-# discord-store-bot
+# Discord Store Bot
 
 Discord bot for automated product sales with ticket support, key delivery, and role assignment.
 
